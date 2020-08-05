@@ -1,0 +1,30 @@
+body{
+	background-image: url("../images/background2.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:400px;
+	width:100%;
+}	
+
+nav ul li {
+  list-style-type: none;
+  display:flex;
+  float:left;
+  padding:20px;
+}
+
+nav ul {
+  display: flex;
+  padding: 20px;
+  border:cyan;
+  float:right;
+  font-size: 30px;   
+}
+
+.main-container{
+	font-family: 'opensans-regular',sans-serif;
+	min-height: 490px;
+	text-align:center;
+	color:white;
+	padding-top: 200px;
+  }
