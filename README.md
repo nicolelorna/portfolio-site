@@ -1,5 +1,5 @@
 # portfolio-site
-This is a personal website portfolio site that showcases the few project i have made and what i am skilled at :rocket:
+This is a personal website portfolio site that showcases the few project i have made and what i am skilled at still not completed(still ar work):rocket:
 
 
 ## Status
